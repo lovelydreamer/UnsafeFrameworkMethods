@@ -11,7 +11,7 @@ This is a repo to track unsafe methods for different frameworks and JavaScript.
 
 
 ## Angular:
-| Raw HTML                   | Disable Encoding  |    Notes                    |
+| Raw HTML                   | Disable Encoding  |    Notes             |
 | -------------------------- |:-----------------:| --------------------:|
 | innerHTML                  |       TBD         |     TBD              |
 | bypassSecurityTrustHtml    |                   |                      |
